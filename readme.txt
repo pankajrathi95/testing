@@ -1,8 +1,3 @@
 asdasd
-sf
-sff
-asdasdf
-asdasdfsaf
-sda
-fs
-dfa
+A sample readMe file
+Thank you
