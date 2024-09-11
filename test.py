@@ -7,3 +7,12 @@ asd
 asd
 assertdas
 delattr
+
+delattrasd
+assertd
+asd
+assertdas
+delattrasdf
+asf
+ZeroDivisionErrorfa
+finallye
